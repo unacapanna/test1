@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "NODE_ENV=development node ./server.js",
     "build": "next build",
-    "start": "next start",
-    "deploy-staging": "NODE_ENV=staging next build &&    NODE_ENV=staging node ./server.js",
-    "deploy-production": "NODE_ENV=production next build && NODE_ENV=production node ./server.js"
+    "start": "next build && node server/index.js ",
+    "dev": "next build && nodemon server/index.js",
+    "server": "nodemon server/index.js",
+    "client": "next"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/unacapanna/test1#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
     "next": "^9.3.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
