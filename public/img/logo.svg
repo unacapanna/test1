@@ -1,0 +1,16 @@
+<svg width="60.00000000000001" height="60.00000000000001" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+ <desc/>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon fill="#005fbf" points="29.91648292541504,0.083516426384449 55.89725875854492,15.083516426384449 55.89725875854492,45.08351642638445 29.91648292541504,60.08351642638445 3.9357097148895264,45.08351642638445 3.9357097148895264,15.083516426384449 " id="Polygon-59"/>
+  <ellipse stroke="null" ry="18.91647" rx="18.707678" id="svg_1" cy="29.911263" cx="30.125274" stroke-opacity="null" stroke-width="null" fill="#00ffff"/>
+  <text stroke="null" transform="matrix(1.992646296581296,0,0,1.8121792072413923,-21.271917779327133,-34.17123402515561) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_3" y="38.042876" x="11.458196" stroke-opacity="null" stroke-width="0" fill="#00bfbf">U</text>
+  <text stroke="null" transform="matrix(1.9136851232106806,0,0,1.7021249364018114,-19.773932451004512,-23.44643468673987) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_4" y="40.270569" x="17.192222" stroke-opacity="null" stroke-width="0" fill="#005fbf">C</text>
+ </g>
+</svg>

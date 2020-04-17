@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+.ucna-container-white-bg {
+    padding: 20px;
+    background-color: #ffffff;
+}
+.ucna-container-grey-bg {
+    padding: 20px;
+    background-color: #cccccc;
+}
+.ucna-container-black-bg {
+    padding: 20px;
+    background-color: #191919;
+    color: #ffffff;
+}
