@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
-import BlogThumbnail from '../../common/BlogThumbnail/BlogThumbnail'
 import Paper from '@material-ui/core/Paper';
 
 export default class extends Component {
